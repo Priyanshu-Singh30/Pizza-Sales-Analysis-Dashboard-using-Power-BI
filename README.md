@@ -22,3 +22,5 @@ The objective of the Pizza Sales Dashboard project is to analyze and visualize s
    - Donut: Revenue by Category
    - Line: Orders over Time
    - Slicer: Size
+## Dashboard
+<img width="1304" height="739" alt="Screenshot 2025-08-05 112947" src="https://github.com/user-attachments/assets/0240c36b-c0e3-4dfc-8076-7dd1913d382c" />
